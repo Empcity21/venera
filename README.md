@@ -1,4 +1,6 @@
 This project is a fork of venera-app/venera and remains licensed under GPL-3.0.
+IMPORTANT: If you are already using Venera, make sure to export the user settings file before switching to the E-ink version. All settings are compatible.
+The E-Ink version can't be directly updated from the original version. You will have to uninstall the original version then install the E-ink version.
 # Venera E-Ink
 
 基于 [venera-app/venera](https://github.com/venera-app/venera) 修改的墨水屏优化版本。
